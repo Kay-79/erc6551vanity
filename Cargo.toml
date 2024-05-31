@@ -1,0 +1,15 @@
+[package]
+name = "erc6551vanity"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+alloy-primitives = { version = "0.5", features = ["rand"] }
+fs4 = "0.7"
+rayon = "1.0"
+tiny-keccak = "2.0"
+rustc-hash = "1.1"
+
+[features]
+default = []
+asm = ["alloy-primitives/asm-keccak"]
