@@ -1,4 +1,4 @@
-# vanity6551
+# erc6551vanity
 
 `erc6551vanity` is a [Rust](https://www.rust-lang.org) implementation of the profanity tokenbound account (ERC6551)
 
