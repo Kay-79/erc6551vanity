@@ -1,6 +1,6 @@
-# erc6551vanity
+# erc6551crunch
 
-`erc6551vanity` is a [Rust](https://www.rust-lang.org) implementation of the profanity tokenbound account (ERC6551)
+`erc6551crunch` is a [Rust](https://www.rust-lang.org) implementation of the profanity tokenbound account (ERC6551)
 
 ## INSTALLATION
 
@@ -10,13 +10,13 @@
     curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
     ```
 
-2. Install `erc6551vanity`
+2. Install `erc6551crunch`
 
 -   ```shell
-    git clone https://github.com/Kay-79/erc6551vanity.git
+    git clone https://github.com/Kay-79/erc6551crunch.git
     ```
 -   ```shell
-    cd erc6551vanity
+    cd erc6551crunch
     ```
 
 3. Build
